@@ -3,8 +3,8 @@ line 2 - modif step 7
 line 3 - modif step 8
 line 4 - modif step 8
 line 5
-line 6 - mod step 19
-line 7 - mod step 19
+line 6
+line 7
 line 8
 line 9
 line 10
